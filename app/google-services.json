@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487181264384",
+    "firebase_url": "https://instatwo-3efe2.firebaseio.com",
+    "project_id": "instatwo-3efe2",
+    "storage_bucket": "instatwo-3efe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487181264384:android:4de79064f8638584",
+        "android_client_info": {
+          "package_name": "com.lydia.instatwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487181264384-ohupnq709ji928ouulro6i14p4lovaea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lydia.instatwo",
+            "certificate_hash": "55d9df1910b7aa04e31d9544afb3f2d6459d2182"
+          }
+        },
+        {
+          "client_id": "487181264384-gnf53sag68emch4m7rc6qbtfj957cin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWR1dEDlSZ9-IcIMofLzQsmJ-3MGD0cwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487181264384-gnf53sag68emch4m7rc6qbtfj957cin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
